@@ -13,4 +13,9 @@ Creating a new branch named feature1
 
 branch dev add new line  14:09
 
+<<<<<<< HEAD
+=======
+branch dev add another line at 14:34
+
+>>>>>>> dev
 
