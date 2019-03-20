@@ -6,3 +6,5 @@ Line 02 from master.
 
 Line 02.
 
+Creating a new branch named feature1
+
